@@ -1,0 +1,48 @@
+@media all and(min-width: 768px) and (max-width: 1100px){}
+
+
+.radius {
+  width: 150px;
+  height: 150px;
+  border-radius:50%;
+  background: black;
+  margin: 10px;
+}
+
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  }
+
+  .block {
+    height: 600px;
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 63px;
+    padding: 30px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, red, blue);
+}
+
+h3 {
+  font-size: 50px;
+width: 100%;
+text-align: center;
+margin: 0;
+}
+
+
+
+
+
+

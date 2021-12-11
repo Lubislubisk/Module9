@@ -1,0 +1,36 @@
+@media all and(min-width: 768px) and (max-width: 1100px){}
+
+.flex-container {
+  display: block;
+  margin: 0 0;
+  border: thick double;
+  padding: 20px;
+  background: aliceblue;
+  opacity: .8;
+  min-width: 182px;
+  text-align: center;
+  
+
+}
+
+html, body {
+  background-color: #59c9d7;
+  margin: 40px;
+  padding: 100 px;
+};
+
+ ul {
+ 
+  list-style-type: none;
+}
+
+li {
+  display: block;
+  font: 2em sans-serif;
+  margin-left: -37px;
+  margin-bottom: 50px;
+}
+   
+   .footer {
+     text-align: center;
+   }
